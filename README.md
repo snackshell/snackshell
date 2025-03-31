@@ -19,7 +19,7 @@
 - 🌱 Learning advanced NLP and voice synthesis
 - 👯 Looking to collaborate on AI for African languages
 - 💬 Ask me about Amharic NLP or Telegram bots
-- ⚡ Fun fact: I create tech content in Amharic
+- ⚡ Fun fact: I don't know what giving up is.
 
 ---
 
@@ -64,10 +64,10 @@
 ### 🔥 Recent Projects
 
 1. **SelamGPT** - Ethiopian AI assistant (Private project)  
-   👉 Developing an Amharic-language AI chatbot with local context
+   👉 Developing an Amharic-Tigrinya-English-language AI chatbot with lots of features.
 
 2. **[HN Telegram Bot](https://github.com/snackshell/hn-telegram-bot)**  
-   📰 Telegram bot that delivers Hacker News stories with sentiment analysis  
+   📰 Telegram bot that delivers Hacker News stories. 
    ![Release](https://img.shields.io/github/v/release/snackshell/hn-telegram-bot?style=flat-square)
 
 3. **[Amharic TTS](https://github.com/snackshell/amharic-tts)**  
