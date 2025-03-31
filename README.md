@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snackshell&label=Profile%20views&color=0e75b6&style=flat" alt="snackshell" /> 
-  <img src="https://profile-counter.glitch.me/snackshell/count.svg" alt="Visitor Counter" />
 </p>
 
 ---
