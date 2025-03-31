@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adonay</h1>
+<h1 align="center">Hi 👋, I'm Snackshell</h1>
 <h3 align="center">A passionate AI/ML Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
