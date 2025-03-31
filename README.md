@@ -15,30 +15,25 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on AI/ML projects
-- 🌱 Learning advanced machine learning techniques
-- 👯 Looking to collaborate on open-source AI projects
-- 💬 Ask me about Python, TensorFlow, or JavaScript
-- ⚡ Fun fact: I love teaching tech through content creation
+- 🔭 Currently building **SelamGPT** (Ethiopian AI assistant)
+- 🌱 Learning advanced NLP and voice synthesis
+- 👯 Looking to collaborate on AI for African languages
+- 💬 Ask me about Amharic NLP or Telegram bots
+- ⚡ Fun fact: I create tech content in Amharic
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Languages
+#### Languages & AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### Web Dev
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+#### Web & APIs
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 #### Tools
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -61,8 +56,23 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/snackshell/snackshell/blob/output/snake.svg)
+### 🐍 My Contribution Snake
+![Contribution Snake](https://github.com/snackshell/snackshell/blob/output/snake.svg)
+
+---
+
+### 🔥 Recent Projects
+
+1. **SelamGPT** - Ethiopian AI assistant (Private project)  
+   👉 Developing an Amharic-language AI chatbot with local context
+
+2. **[HN Telegram Bot](https://github.com/snackshell/hn-telegram-bot)**  
+   📰 Telegram bot that delivers Hacker News stories with sentiment analysis  
+   ![Release](https://img.shields.io/github/v/release/snackshell/hn-telegram-bot?style=flat-square)
+
+3. **[Amharic TTS](https://github.com/snackshell/amharic-tts)**  
+   🗣 Open-source Amharic text-to-speech system  
+   ![Stars](https://img.shields.io/github/stars/snackshell/amharic-tts?style=flat-square)
 
 ---
 
@@ -71,33 +81,13 @@
   <a href="https://www.youtube.com/@banacodes" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/snackshel/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.twitch.tv/snackshell" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-  </a>
-  <a href="https://discord.gg/BBsMbb2K" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   <a href="mailto:solomonadonay2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/snackshell" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://t.me/snackshell" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
-
----
-
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [snackshell/repo-name]
-2. 🚀 Published release v1.0.0 in [snackshell/project]
-3. 💪 Opened PR [#2] in [community/repo]
-<!--END_SECTION:activity-->
-
----
-
-### 🐍 Another Snake (Because Why Not?)
-![Snake animation](https://github.com/snackshell/snackshell/blob/output/snake.svg)
