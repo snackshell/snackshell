@@ -1,4 +1,4 @@
-```
+---
 <h1 align="center">Hi 👋, I'm Snackshell</h1>
 <h3 align="center">A passionate AI/ML Developer from Ethiopia 🇪🇹</h3>
 <h4 align="center">🔗 <a href="https://snackshell.work" target="_blank">snackshell.work</a></h4>
@@ -80,4 +80,4 @@
 <p align="center">
   <span style="color: #3AA65555">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</span>
 </p>
-```
+---
