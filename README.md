@@ -1,4 +1,3 @@
----
 <h1 align="center">Hi 👋, I'm Snackshell</h1>
 <h3 align="center">A passionate AI/ML Developer from Ethiopia 🇪🇹</h3>
 <h4 align="center">🔗 <a href="https://snackshell.work" target="_blank">snackshell.work</a></h4>
@@ -18,7 +17,7 @@
 💻 **21 y/o self-taught programmer** specializing in AI/ML  
 🌱 Currently building [SelamGPT](https://snackshell.work) - Ethiopian AI assistant  
 📝 I write technical content about AI and development  
-🔗 Portfolio: [snackshell.work](https://snackshell.work)  
+🔗 Portfolio: [snackshell.work](https://snackshell.work)
 
 <!-- Dot grid background for tech stack -->
 <div style="background-color: #2D333B; padding: 1em; border-radius: 8px; background-image: radial-gradient(#3AA65510 1px, transparent 1px); background-size: 20px 20px;">
@@ -80,4 +79,3 @@
 <p align="center">
   <span style="color: #3AA65555">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</span>
 </p>
----
