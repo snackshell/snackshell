@@ -12,7 +12,7 @@
   <span style="color: #3AA65555">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</span>
 </p>
 
-## 🟢 About Me
+## About Me
 
 💻 **21 y/o self-taught programmer** specializing in AI/ML  
 🌱 Currently building [SelamGPT](https://snackshell.work) - Ethiopian AI assistant  
