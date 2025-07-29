@@ -31,7 +31,7 @@
 
   <td width="55%" style="padding-left:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
-          ${\color{#3AA655}\fontSize{30}\textsf{whoami}}$
+          ${\color{#3AA655}\size{30}\textsf{whoami}}$
           <ul style="list-style:none; padding:0;">
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
