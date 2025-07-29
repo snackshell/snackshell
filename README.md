@@ -73,40 +73,6 @@
 </div>
 
 
-
-<h3>🔥 Featured Projects</h3>
-  <table width="100%" style="max-width:900px; border:none;">
-    <tr>
-      <td width="33%" style="padding:8px;">
-        <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
-          <h4 style="margin:0 0 10px; color:#3AA655;">SelamGPT</h4>
-          <p>Amharic LLM assistant powered by fine-tuned LLaMA-7B.</p>
-          <a href="https://snackshell.work" style="color:#3AA655; text-decoration:none;">▶ Live Demo</a>&nbsp;&nbsp;
-          <a href="https://github.com/snackshell/selamgpt" style="color:#3AA655; text-decoration:none;">📁 Code</a>
-        </div>
-      </td>
-      <td width="33%" style="padding:8px;">
-        <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
-          <h4 style="margin:0 0 10px; color:#3AA655;">HN Telegram Bot</h4>
-          <p>Auto-delivers Hacker News top stories to Telegram.</p>
-          <a href="https://t.me/hackerdabi" style="color:#3AA655; text-decoration:none;">▶ Bot</a>&nbsp;&nbsp;
-          <a href="https://github.com/snackshell/hn-telegram-bot" style="color:#3AA655; text-decoration:none;">📁 Code</a>
-        </div>
-      </td>
-      <td width="33%" style="padding:8px;">
-        <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
-          <h4 style="margin:0 0 10px; color:#3AA655;">Amharic TTS</h4>
-          <p>Speech synthesis for Amharic using Tacotron2 + HiFi-GAN.</p>
-          <a href="https://snackshell.work/tts" style="color:#3AA655; text-decoration:none;">▶ Demo</a>&nbsp;&nbsp;
-          <a href="https://github.com/snackshell/amharic-tts" style="color:#3AA655; text-decoration:none;">📁 Code</a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 <h3>🐍 Snake Contribution</h3>
 <div align="center">
   <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> 
