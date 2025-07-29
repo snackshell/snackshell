@@ -56,9 +56,11 @@
       </td>
     </tr>
     <tr>
-
-![streak](https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true)
-
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=snackshell&theme=radical&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3>🔥 Featured Projects</h3>
