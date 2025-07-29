@@ -48,10 +48,10 @@
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
           <h3>whoami</h3>
           <ul style="list-style:none; padding:0;">
-            <li>● 🔭 Self-taught AI/ML Dev</li>
-            <li>● 🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
-            <li>● 📝 Vibe Coder & Creative Developer, open-source advocate</li>
-            <li>● 📫 Contact me www.snackshell.work/contact</li>
+            <li>🔭 Self-taught AI/ML Dev</li>
+            <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
+            <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
+            <li>📫 Contact me www.snackshell.work/contact</li>
           </ul>
         </div>
       </td>
@@ -100,14 +100,16 @@
             padding:20px;
             font-family:'JetBrains Mono', monospace;
             box-shadow:0 0 12px #3AA65540;
-          ">
+            transition:transform .3s ease;
+          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
             <h4 style="margin:0 0 10px; color:#3AA655;">SelamGPT</h4>
             <p style="font-size:14px; color:#c9d1d9;">Amharic LLM assistant powered by fine-tuned LLaMA-7B.</p>
             <span style="color:#3AA655;">▶ Live Demo</span>
           </div>
         </a>
       </td>
-      <td width="33%" style="padding:8px;">
+
+  <td width="33%" style="padding:8px;">
         <a href="https://github.com/snackshell/hn-telegram-bot" style="text-decoration:none;">
           <div style="
             background:linear-gradient(135deg,#0D1117 0%, #1A3B1A 100%);
@@ -116,14 +118,16 @@
             padding:20px;
             font-family:'JetBrains Mono', monospace;
             box-shadow:0 0 12px #3AA65540;
-          ">
+            transition:transform .3s ease;
+          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
             <h4 style="margin:0 0 10px; color:#3AA655;">HN Telegram Bot</h4>
             <p style="font-size:14px; color:#c9d1d9;">Auto-delivers Hacker News top stories to Telegram.</p>
             <span style="color:#3AA655;">▶ Bot</span>
           </div>
         </a>
       </td>
-      <td width="33%" style="padding:8px;">
+
+  <td width="33%" style="padding:8px;">
         <a href="https://github.com/snackshell/amharic-tts" style="text-decoration:none;">
           <div style="
             background:linear-gradient(135deg,#0D1117 0%, #1A3B1A 100%);
@@ -132,7 +136,8 @@
             padding:20px;
             font-family:'JetBrains Mono', monospace;
             box-shadow:0 0 12px #3AA65540;
-          ">
+            transition:transform .3s ease;
+          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
             <h4 style="margin:0 0 10px; color:#3AA655;">Amharic TTS</h4>
             <p style="font-size:14px; color:#c9d1d9;">Speech synthesis for Amharic using Tacotron2 + HiFi-GAN.</p>
             <span style="color:#3AA655;">▶ Demo</span>
@@ -152,7 +157,8 @@
 <!-- 10. Snake contribution graph -->
 <div align="center">
   <h3>🐍 Snake Contribution</h3>
-  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake"/>
+
+![snake gif](https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <!-- 11. Footer wave – terminal green -->
