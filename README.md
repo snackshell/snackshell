@@ -59,7 +59,9 @@
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="langs" height="195"/></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snackshell&theme=radical&hide_border=true" alt="streak"/></td>
+      <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.demolab.com?user=snackshell&theme=radical&hide_border=true" alt="streak"/>
+    </td>
     </tr>
   </table>
 </div>
