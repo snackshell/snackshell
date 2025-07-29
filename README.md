@@ -12,13 +12,13 @@
 
 <!-- 3. Quick links -->
 <p align="center">
-  <a href="https://snackshell.work"><img src="https://img.shields.io/badge/🌐_snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"></a>
-  <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3AA655" alt="linkedin"></a>
-  <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=3AA655" alt="telegram"></a>
-  <a href="mailto:solomonadonay2@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
+  <a href="https://snackshell.work"><img src="https://img.shields.io/badge/🌐_snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"/></a>
+  <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3AA655" alt="linkedin"/></a>
+  <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=3AA655" alt="telegram"/></a>
+  <a href="mailto:solomonadonay2@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"/></a>
 </p>
 
-<!-- 4. About-me split panel (final) -->
+<!-- 4. About-me split panel -->
 <div align="center">
   <table width="100%" style="border-collapse:collapse;">
     <tr>
@@ -28,8 +28,7 @@
              style="border-radius:12px; box-shadow:0 0 20px #3AA65540;"
              alt="ethio-ai"/>
       </td>
-
-  <td width="55%" style="padding-left:20px;">
+      <td width="55%" style="padding-left:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
           ${\color{#3AA655}\Large\bf whoami}$
           <ul style="list-style:none; padding:0;">
@@ -63,77 +62,54 @@
 
 </div>
 
-<!-- 8. Featured Projects – colorful cards -->
+<!-- 7. Featured Projects -->
+<div align="center">
   <h3>🔥 Featured Projects</h3>
   <table width="100%" style="max-width:900px;">
     <tr>
-      <!-- SelamGPT -->
       <td width="33%" style="padding:8px;">
         <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
           <h4 style="margin:0 0 10px; color:#3AA655;">SelamGPT</h4>
           <p>Amharic LLM assistant powered by fine-tuned LLaMA-7B.</p>
-          <a href="https://snackshell.work   " style="color:#3AA655; text-decoration:none;">▶ Live Demo</a>&nbsp;&nbsp;
-          <a href="https://github.com/snackshell/selamgpt   " style="color:#3AA655; text-decoration:none;">📁 Code</a>
+          <a href="https://snackshell.work" style="color:#3AA655; text-decoration:none;">▶ Live Demo</a>&nbsp;&nbsp;
+          <a href="https://github.com/snackshell/selamgpt" style="color:#3AA655; text-decoration:none;">📁 Code</a>
         </div>
       </td>
-      <!-- HN Bot -->
       <td width="33%" style="padding:8px;">
         <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
           <h4 style="margin:0 0 10px; color:#3AA655;">HN Telegram Bot</h4>
           <p>Auto-delivers Hacker News top stories to Telegram.</p>
-          <a href="https://t.me/hackerdabi   " style="color:#3AA655; text-decoration:none;">▶ Bot</a>&nbsp;&nbsp;
-          <a href="https://github.com/snackshell/hn-telegram-bot   " style="color:#3AA655; text-decoration:none;">📁 Code</a>
+          <a href="https://t.me/hackerdabi" style="color:#3AA655; text-decoration:none;">▶ Bot</a>&nbsp;&nbsp;
+          <a href="https://github.com/snackshell/hn-telegram-bot" style="color:#3AA655; text-decoration:none;">📁 Code</a>
         </div>
       </td>
-      <!-- Amharic TTS -->
       <td width="33%" style="padding:8px;">
         <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
           <h4 style="margin:0 0 10px; color:#3AA655;">Amharic TTS</h4>
           <p>Speech synthesis for Amharic using Tacotron2 + HiFi-GAN.</p>
-          <a href="https://snackshell.work/tts   " style="color:#3AA655; text-decoration:none;">▶ Demo</a>&nbsp;&nbsp;
-          <a href="https://github.com/snackshell/amharic-tts   " style="color:#3AA655; text-decoration:none;">📁 Code</a>
+          <a href="https://snackshell.work/tts" style="color:#3AA655; text-decoration:none;">▶ Demo</a>&nbsp;&nbsp;
+          <a href="https://github.com/snackshell/amharic-tts" style="color:#3AA655; text-decoration:none;">📁 Code</a>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- 9. Recent activity -->
+<!-- 8. Recent activity -->
 <div align="center">
   <h3>📈 Code Frequency</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snackshell&bg_color=0D1117&color=3AA655&line=3AA655&point=ffffff&area=true&hide_border=true" alt="activity"/>
 </div>
 
-<!-- 10. Snake contribution graph -->
-### 🐍 Snake Contribution
+<!-- 9. Snake contribution graph -->
 <div align="center">
-  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> 
+  <h3>🐍 Snake Contribution</h3>
+  <img src="https://raw.githubusercontent.com/snackshell/snackshell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
-<!-- 11. Footer wave – terminal green -->
+<!-- 10. Footer wave – terminal green -->
 <div align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="100%" stop-color="#1A3B1A"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#waveGrad)" d="
-      M0,60 C150,120 350,0 600,60 C850,120 1050,0 1200,60 L1200,120 L0,120 Z">
-      <animateTransform attributeName="transform"
-                        type="translate"
-                        dur="10s"
-                        values="0 0;-100 0;0 0"
-                        repeatCount="indefinite"/>
-    </path>
-    <text x="50%" y="75" dominant-baseline="middle" text-anchor="middle"
-          font-family="JetBrains Mono"
-          font-size="20"
-          fill="#3AA655">
-      Thanks for visiting! ⭐
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1A3B1A&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=3AA655" alt="footer"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=snackshell&label=views&style=flat&color=3AA655" alt="views"/>
 </div>
