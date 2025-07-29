@@ -25,7 +25,7 @@
   <table width="100%" style="border-collapse:collapse;">
     <tr>
       <td width="45%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png"
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"
              width="260"
              style="border-radius:12px; box-shadow:0 0 20px #3AA65540;"
              alt="ethio-ai"/>
