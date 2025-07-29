@@ -99,34 +99,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snackshell&bg_color=0D1117&color=3AA655&line=3AA655&point=ffffff&area=true&hide_border=true" alt="activity"/>
 </div>
 
-### 🐍 Snake Contribution
+<h3>🐍 Snake Contribution</h3>
 <div align="center">
   <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> 
-</div>
-
-<div align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="100%" stop-color="#1A3B1A"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#waveGrad)" d="
-      M0,60 C150,120 350,0 600,60 C850,120 1050,0 1200,60 L1200,120 L0,120 Z">
-      <animateTransform attributeName="transform"
-                        type="translate"
-                        dur="10s"
-                        values="0 0;-100 0;0 0"
-                        repeatCount="indefinite"/>
-    </path>
-    <text x="50%" y="75" dominant-baseline="middle" text-anchor="middle"
-          font-family="JetBrains Mono"
-          font-size="20"
-          fill="#3AA655">
-      Thanks for visiting! ⭐
-    </text>
-  </svg>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=snackshell&label=views&style=flat&color=3AA655" alt="views"/>
 </div>
