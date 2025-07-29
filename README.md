@@ -64,13 +64,6 @@
   </table>
 </div>
 
-<!-- 7. Trophy Achievement -->
-<p align="center">
-  <a href="https://github.com/snackshell/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=snackshell&theme=onedark&no-frame=true&no-bg=true" alt="trophy"/>
-  </a>
-</p>
-
 <!-- 8. Featured Projects – colorful cards -->
   <h3>🔥 Featured Projects</h3>
   <table width="100%" style="max-width:900px;">
