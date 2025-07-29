@@ -58,7 +58,9 @@
   </table>
 </div>
 
-![streak](https://github-readme-streak-stats.vercel.app/api/?user=snackshell&theme=github-dark&hide_border=true)
+<div align="center">
+![streak](https://streak-stats.demolab.com?user=snackshell&theme=radical&hide_border=true )
+</div>
 
 <h3>🔥 Featured Projects</h3>
   <table width="100%" style="max-width:900px; border:none;">
