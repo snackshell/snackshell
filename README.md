@@ -41,7 +41,7 @@
 
 <h3>⚙️ Tech Orbit</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,flask,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,k8s,githubactions&perline=10" alt="skills" width="820"/>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,openai,fastapi,flask,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,n8n,githubactions&perline=10" alt="skills" width="600"/>
 </div>
 
 <h3>📊 GitHub Constellation</h3>
@@ -92,11 +92,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<h3>📈 Code Frequency</h3>
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snackshell&bg_color=0D1117&color=3AA655&line=3AA655&point=ffffff&area=true&hide_border=true" alt="activity"/>
 </div>
 
 <h3>🐍 Snake Contribution</h3>
