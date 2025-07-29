@@ -2,11 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3AA655&fontSize=70&fontAlignY=45&text=SNACK%20SHELL&stroke=3AA655&strokeWidth=2&height=180&color=0D1117&animation=scaleIn" alt="snack shell"/>
 </div>
 
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3AA655&center=true&vCenter=true&width=700&lines=AI%20Engineer%20%7C%20Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9;Building%20SelamGPT%20%7C%20Amharic%20LLM;Open-source%20Advocate%20%7C%20Python%20Ninja" alt="matrix"/>
   </a>
 </div>
+
+
 
 <p align="center">
   <a href="https://snackshell.work"><img src="https://img.shields.io/badge/🌐_snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"></a>
@@ -14,6 +18,8 @@
   <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=3AA655" alt="telegram"></a>
   <a href="mailto:solomonadonay2@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
 </p>
+
+
 
 <div align="center">
   <table width="100%" style="border-collapse:collapse;">
@@ -39,10 +45,14 @@
   </table>
 </div>
 
+
+
 <h3>⚙️ Tech Orbit</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,flask,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,githubactions&perline=10" alt="skills" width="600"/>
 </div>
+
+
 
 <h3>📊 GitHub Constellation</h3>
 <div>
@@ -62,6 +72,8 @@
   </tr>
 </table>
 </div>
+
+
 
 <h3>🔥 Featured Projects</h3>
   <table width="100%" style="max-width:900px; border:none;">
@@ -93,6 +105,8 @@
     </tr>
   </table>
 </div>
+
+
 
 <h3>🐍 Snake Contribution</h3>
 <div align="center">
