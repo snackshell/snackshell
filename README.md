@@ -1,6 +1,6 @@
 <!-- 1. Terminal-green animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3AA655&fontSize=70&fontAlignY=45&text=snack%20shell&stroke=3AA655&strokeWidth=2&height=180&color=0D1117&animation=scaleIn" alt="snack shell"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3AA655&fontSize=70&fontAlignY=45&text=SNACK%20SHELL&stroke=3AA655&strokeWidth=2&height=180&color=0D1117&animation=scaleIn" alt="snack shell"/>
 </div>
 
 <!-- 2. Matrix-style typing line -->
@@ -27,12 +27,12 @@
       </td>
       <td width="55%" style="padding-left:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
-          <h3 style="color=3AA655;">whoami</h3>
+          <h3 style="color:#3AA655;">whoami</h3>
           <ul style="list-style:none; padding:0;">
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
             <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
-            <li>📫 Contact me www.snackshell.work/contact</li>
+            <li>📫 Contact me <a href="https://snackshell.work/contact" style="color:#3AA655;">snackshell.work/contact</a></li>
           </ul>
         </div>
       </td>
