@@ -116,7 +116,7 @@
 <div align="center">
   <h3>🐍 Snake Contribution</h3>
   <div align="center">
-  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake"/>
+  <img ![Snake animation](https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif)/>
 </div>
 
 <!-- 11. Footer wave – terminal green -->
