@@ -44,8 +44,8 @@
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,flask,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,k8s,githubactions&perline=10" alt="skills" width="820"/>
 </div>
 
-<div align="center">
-  <h3>📊 GitHub Constellation</h3>
+<h3>📊 GitHub Constellation</h3>
+<div>
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
@@ -57,13 +57,11 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=snackshell&theme=radicalk&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.vercel.app/api/?user=snackshell&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=snackshell&theme=radical&hide_border=true)
 
 <h3>🔥 Featured Projects</h3>
   <table width="100%" style="max-width:900px; border:none;">
