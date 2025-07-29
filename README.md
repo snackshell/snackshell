@@ -1,14 +1,6 @@
 <!-- 1. Terminal-green animated header -->
 <div align="center">
-
-<!-- background rectangle -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&width=1200&section=header&text=" alt="bg">
-
-<!-- glowing text overlay -->
-<h1 style="font-family: 'Courier New', monospace; color: #3AA655; margin-top:-120px; font-size:70px; letter-spacing:4px; text-shadow: 0 0 6px #3AA655, 0 0 12px #3AA655;">
-  snack shell
-</h1>
-
+  ![snack shell](https://capsule-render.vercel.app/api?type=transparent&fontColor=3AA655&fontSize=70&fontAlignY=45&text=snack%20shell&stroke=3AA655&strokeWidth=2&height=180&color=0D1117&animation=scaleIn)
 </div>
 
 <!-- 2. Matrix-style typing line -->
