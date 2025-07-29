@@ -49,10 +49,10 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=github-dark&hide_border=true&langs_count=10" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=onedark&hide_border=true&langs_count=10" alt="Top Languages"/>
       </td>
     </tr>
     <tr>
