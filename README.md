@@ -115,9 +115,8 @@
 <!-- 10. Snake contribution graph -->
 <div align="center">
   <h3>🐍 Snake Contribution</h3>
-  <div align="center">
-  <img ![Snake animation](https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif)/>
-</div>
+  
+![Snake animation](https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif)
 
 <!-- 11. Footer wave – terminal green -->
 <div align="center">
