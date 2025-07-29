@@ -112,7 +112,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snackshell&bg_color=0D1117&color=3AA655&line=3AA655&point=ffffff&area=true&hide_border=true" alt="activity"/>
 </div>
 
-<!-- 10. Footer wave – terminal green -->
+<!-- 10. Snake contribution graph -->
+### 🐍 Snake Contribution
+<div align="center">
+  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> 
+</div>
+
+<!-- 11. Footer wave – terminal green -->
 <div align="center">
   <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -138,10 +144,4 @@
   </svg>
   <br>
   <img src="https://komarev.com/ghpvc/?username=snackshell&label=views&style=flat&color=3AA655" alt="views"/>
-</div>
-
-<!-- 11. Snake contribution graph -->
-<div align="center">
-  <h3>🐍 Snake Contribution</h3>
-  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif" alt="Snake animation">
 </div>
