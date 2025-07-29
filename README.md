@@ -1,264 +1,285 @@
 <div align="center">
-<!-- Animated Background -->
-<img src="https://github.com/snackshell/snackshell/blob/main/bg.png?raw=true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.1;">
-
-<!-- Header with animated gradient -->
-<div style="background: linear-gradient(45deg, #3AA655, #2E8B57, #20B2AA, #3AA655); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 15px; margin-bottom: 20px;">
-<h1 style="color: white; font-size: 3em; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-<a href="https://github.com/snackshell" style="color: white; text-decoration: none;">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Snackshell;Welcome+to+my+GitHub" alt="Header">
-</a>
-</h1>
-
-<!-- Animated flag and subtitle -->
-<h3 style="color: white; margin: 10px 0;">
-<img src="https://flagcdn.com/32x24/et.png" alt="Ethiopia" style="vertical-align: middle; margin-right: 8px; animation: wave 2s infinite;">
-AI/ML Developer | Tech Innovator | <span style="animation: pulse 2s infinite;">Building the Future</span>
-</h3>
-
-<!-- Website link with animated button -->
-<div style="margin-top: 15px;">
-<a href="https://snackshell.work" target="_blank" style="display: inline-block; background: rgba(255,255,255,0.2); border: 2px solid white; color: white; padding: 10px 20px; border-radius: 30px; text-decoration: none; font-weight: bold; transition: all 0.3s ease; animation: float 3s ease-in-out infinite;">
-🌐 snackshell.work
-</a>
-</div> </div>
-
-<!-- Animated typing with background -->
-<div style="background: rgba(0,0,0,0.7); padding: 15px; border-radius: 10px; margin: 20px 0;">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3AA655&center=true&vCenter=true&width=600&lines=Self-taught+AI+Engineer;Open-Source+Contributor;Tech+Content+Creator;Always+Learning+New+Things" alt="Typing SVG">
-</a>
+  <!-- Custom Header with Gradient Background -->
+  <div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 40px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <!-- Animated Name with Glow Effect -->
+    <h1 style="font-size: 3.5rem; background: linear-gradient(90deg, #00d9ff, #ff006e, #00d9ff); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shine 3s linear infinite; margin-bottom: 10px;">
+      Snackshell
+    </h1>
+    
+    <!-- Subtitle with Emoji -->
+    <p style="font-size: 1.4rem; color: #a8b2d1; margin-bottom: 20px;">
+      🇪🇹 AI/ML Developer | Tech Innovator | Open Source Advocate
+    </p>
+    
+    <!-- Animated Typing Effect -->
+    <div style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 10px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1);">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Building+Ethiopian+AI+Solutions;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG">
+    </div>
+    
+    <!-- Custom Divider -->
+    <div style="margin-top: 25px; display: flex; align-items: center; justify-content: center;">
+      <div style="height: 2px; width: 100px; background: linear-gradient(90deg, transparent, #00d9ff, transparent);"></div>
+      <span style="margin: 0 15px; color: #00d9ff; font-size: 1.2rem;">✦</span>
+      <div style="height: 2px; width: 100px; background: linear-gradient(90deg, transparent, #ff006e, transparent);"></div>
+    </div>
+  </div>
 </div>
 
-<!-- Custom animated divider -->
-<div style="margin: 30px 0;">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" style="animation: bounce 2s infinite;">
-<span style="color: #3AA655; font-size: 24px; margin: 0 10px; animation: pulse 2s infinite;">✦</span>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" style="animation: bounce 2s infinite 0.2s;">
-<span style="color: #3AA655; font-size: 24px; margin: 0 10px; animation: pulse 2s infinite 0.4s;">✦</span>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" style="animation: bounce 2s infinite 0.4s;">
-</div>
-
-<!-- About Me with creative card design -->
-<div style="background: linear-gradient(135deg, rgba(58,166,85,0.1), rgba(32,178,170,0.1)); border-radius: 15px; padding: 20px; margin: 20px 0; border: 1px solid rgba(58,166,85,0.3);">
-<table>
-<tr>
-<td width="40%" valign="middle">
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oYzN3d2g3M2h3d2p1cW9tM3Z5b2J6c2g1a2J5dXh4YmV0a2d4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" alt="Coding" style="border-radius: 10px; border: 2px solid #3AA655;">
-</div>
-</td>
-<td width="60%" valign="middle">
-<h2 style="color: #3AA655; border-bottom: 2px solid #3AA655; padding-bottom: 5px;">🧑‍💻 About Me</h2>
-<ul style="text-align: left; font-size: 16px; line-height: 1.6;">
-<li>🔭 <strong>21 y/o self-taught programmer</strong> specializing in AI/ML</li>
-<li>🌱 Currently building <a href="https://snackshell.work"><strong>SelamGPT</strong></a> - Ethiopian AI assistant</li>
-<li>📝 I write technical content about AI and development</li>
-<li>👯 Open to collaborate on AI projects and research</li>
-<li>💬 Ask me about Python, Machine Learning, and NLP</li>
-</ul>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Tech Stack with creative design -->
-<div style="margin: 30px 0;">
-<h2 style="color: #3AA655; font-size: 2em; margin-bottom: 20px; text-align: center;">🛠️ Tech Stack</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<!-- Languages & AI -->
-<div style="background: rgba(0,0,0,0.7); border-radius: 10px; padding: 15px; width: 30%; min-width: 250px; border: 1px solid #3AA655;">
-<h3 style="color: #3AA655; text-align: center; margin-top: 0;">Languages & AI</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-</div>
-</div>
-
-<!-- Web & APIs -->
-<div style="background: rgba(0,0,0,0.7); border-radius: 10px; padding: 15px; width: 30%; min-width: 250px; border: 1px solid #3AA655;">
-<h3 style="color: #3AA655; text-align: center; margin-top: 0;">Web & APIs</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-</div>
-</div>
-
-<!-- Tools & Others -->
-<div style="background: rgba(0,0,0,0.7); border-radius: 10px; padding: 15px; width: 30%; min-width: 250px; border: 1px solid #3AA655;">
-<h3 style="color: #3AA655; text-align: center; margin-top: 0;">Tools & Others</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</div>
-</div>
-</div> </div>
-
-<!-- GitHub Stats with creative layout -->
-<div style="margin: 30px 0;">
-<h2 style="color: #3AA655; font-size: 2em; margin-bottom: 20px; text-align: center;">📊 GitHub Stats</h2>
-
-<div style="background: rgba(0,0,0,0.7); border-radius: 15px; padding: 20px; border: 1px solid #3AA655;">
-<table>
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" alt="Top Languages">
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snackshell&theme=vue-dark&hide_border=true" alt="GitHub Streak">
-</td>
-</tr>
-</table>
-</div> </div>
-
-<!-- Featured Projects with creative card design -->
-<div style="margin: 30px 0;">
-<h2 style="color: #3AA655; font-size: 2em; margin-bottom: 20px; text-align: center;">🔥 Featured Projects</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-<!-- SelamGPT -->
-<div style="background: linear-gradient(135deg, rgba(58,166,85,0.1), rgba(32,178,170,0.1)); border-radius: 15px; padding: 20px; width: 30%; min-width: 280px; border: 1px solid #3AA655; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-<h3 style="color: #3AA655; text-align: center; margin-top: 0;">SelamGPT</h3>
-<div style="text-align: center; margin-bottom: 15px;">
-<img src="https://img.shields.io/badge/AI-3AA655?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI">
-<img src="https://img.shields.io/badge/NLP-3AA655?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP">
-<img src="https://img.shields.io/badge/Amharic-3AA655?style=flat-square&logo=language&logoColor=white" alt="Amharic">
-</div>
-<p style="text-align: center; margin-bottom: 15px;">Ethiopian AI assistant with Amharic language support</p>
-<div style="text-align: center;">
-<a href="https://snackshell.work">
-<img src="https://img.shields.io/badge/View_Project-3AA655?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project">
-</a>
-</div>
-</div>
-
-<!-- HN Telegram Bot -->
-<div style="background: linear-gradient(135deg, rgba(58,166,85,0.1), rgba(32,178,170,0.1)); border-radius: 15px; padding: 20px; width: 30%; min-width: 280px; border: 1px solid #3AA655; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-<h3 style="color: #3AA655; text-align: center; margin-top: 0;">HN Telegram Bot</h3>
-<div style="text-align: center; margin-bottom: 15px;">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-<img src="https://img.shields.io/badge/API-3AA655?style=flat-square&logo=api&logoColor=white" alt="API">
-</div>
-<p style="text-align: center; margin-bottom: 15px;">Automated Hacker News delivery to Telegram</p>
-<div style="text-align: center;">
-<a href="https://github.com/snackshell/hn-telegram-bot">
-<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-</div>
-</div>
-
-<!-- Amharic TTS -->
-<div style="background: linear-gradient(135deg, rgba(58,166,85,0.1), rgba(32,178,170,0.1)); border-radius: 15px; padding: 20px; width: 30%; min-width: 280px; border: 1px solid #3AA655; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-<h3 style="color: #3AA655; text-align: center; margin-top: 0;">Amharic TTS</h3>
-<div style="text-align: center; margin-bottom: 15px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TTS-3AA655?style=flat-square&logo=sound&logoColor=white" alt="TTS">
-<img src="https://img.shields.io/badge/Open_Source-3AA655?style=flat-square&logo=open-source-initiative&logoColor=white" alt="Open Source">
-</div>
-<p style="text-align: center; margin-bottom: 15px;">Open-source Amharic speech synthesis system</p>
-<div style="text-align: center;">
-<a href="https://github.com/snackshell/amharic-tts">
-<img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-</div>
-</div>
-</div> </div>
-
-<!-- Portfolio CTA with animation -->
-<div style="margin: 30px 0; text-align: center;">
-<a href="https://snackshell.work" target="_blank" style="display: inline-block; background: linear-gradient(45deg, #3AA655, #2E8B57); color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.2em; transition: all 0.3s ease; animation: pulse 2s infinite;">
-View My Portfolio
-</a>
-</div>
-
-<!-- Connect section with creative design -->
-<div style="margin: 30px 0;">
-<h2 style="color: #3AA655; font-size: 2em; margin-bottom: 20px; text-align: center;">🌐 Connect With Me</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-<a href="https://snackshell.work" target="_blank" style="display: inline-block; background: rgba(58,166,85,0.2); border: 1px solid #3AA655; color: white; padding: 10px 15px; border-radius: 8px; text-decoration: none; transition: all 0.3s ease;">
-<img src="https://img.shields.io/badge/Portfolio-3AA655?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/snackshell" target="_blank" style="display: inline-block; background: rgba(0,119,181,0.2); border: 1px solid #0077B5; color: white; padding: 10px 15px; border-radius: 8px; text-decoration: none; transition: all 0.3s ease;">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://t.me/snackshell" target="_blank" style="display: inline-block; background: rgba(38,165,228,0.2); border: 1px solid #26A5E4; color: white; padding: 10px 15px; border-radius: 8px; text-decoration: none; transition: all 0.3s ease;">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:solomonadonay2@gmail.com" style="display: inline-block; background: rgba(234,67,53,0.2); border: 1px solid #EA4335; color: white; padding: 10px 15px; border-radius: 8px; text-decoration: none; transition: all 0.3s ease;">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://twitter.com/snackshell" target="_blank" style="display: inline-block; background: rgba(29,161,242,0.2); border: 1px solid #1DA1F2; color: white; padding: 10px 15px; border-radius: 8px; text-decoration: none; transition: all 0.3s ease;">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-</div> </div>
-
-<!-- Visitor counter with animation -->
-<div style="margin: 30px 0; text-align: center;">
-<img src="https://komarev.com/ghpvc/?username=snackshell&style=for-the-badge&color=3AA655" alt="Profile views">
-</div>
-
-<!-- Footer with animation -->
-<div style="margin: 30px 0; text-align: center;">
-<p>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/BrunnerLivio/master/images/coding.gif" width="30px" height="30px" style="animation: spin 4s linear infinite;">
-<span style="color: #3AA655; font-size: 24px; margin: 0 10px; animation: pulse 2s infinite;">✦</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/BrunnerLivio/master/images/coding.gif" width="30px" height="30px" style="animation: spin 4s linear infinite reverse;">
-<span style="color: #3AA655; font-size: 24px; margin: 0 10px; animation: pulse 2s infinite 0.5s;">✦</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/BrunnerLivio/master/images/coding.gif" width="30px" height="30px" style="animation: spin 4s linear infinite;">
-</p>
-<p style="color: #3AA655; font-size: 1.2em; margin-top: 10px;">Thanks for visiting my profile! ⭐</p>
-</div>
-</div>
-
-<!-- Custom CSS for animations -->
+<!-- Custom CSS Animations -->
 <style>
-@keyframes gradient {
-0% { background-position: 0% 50%; }
-50% { background-position: 100% 50%; }
-100% { background-position: 0% 50%; }
-}
-
-@keyframes float {
-0% { transform: translateY(0px); }
-50% { transform: translateY(-10px); }
-100% { transform: translateY(0px); }
-}
-
-@keyframes pulse {
-0% { opacity: 1; }
-50% { opacity: 0.5; }
-100% { opacity: 1; }
-}
-
-@keyframes bounce {
-0%, 100% { transform: translateY(0); }
-50% { transform: translateY(-10px); }
-}
-
-@keyframes spin {
-0% { transform: rotate(0deg); }
-100% { transform: rotate(360deg); }
-}
-
-@keyframes wave {
-0% { transform: rotate(0deg); }
-25% { transform: rotate(20deg); }
-50% { transform: rotate(0deg); }
-75% { transform: rotate(-20deg); }
-100% { transform: rotate(0deg); }
-}
+  @keyframes shine {
+    to { background-position: 200% center; }
+  }
+  
+  .card {
+    background: linear-gradient(135deg, rgba(15, 12, 41, 0.8), rgba(48, 43, 99, 0.8));
+    border-radius: 15px;
+    padding: 25px;
+    margin: 15px 0;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px rgba(0, 217, 255, 0.2);
+  }
+  
+  .skill-bar {
+    height: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    margin: 10px 0;
+    overflow: hidden;
+  }
+  
+  .skill-progress {
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #00d9ff, #ff006e);
+  }
 </style>
+
+<!-- About Section -->
+<div align="center">
+  <div class="card" style="max-width: 800px;">
+    <h2 style="color: #00d9ff; margin-bottom: 20px; font-size: 2rem;">About Me</h2>
+    
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+      <div style="flex: 1; min-width: 250px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oYzN3d2g3M2h3d2p1cW9tM3Z5b2J6c2g1a2J5dXh4YmV0a2d4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" style="border-radius: 15px; border: 3px solid #00d9ff;">
+      </div>
+      
+      <div style="flex: 2; min-width: 300px; text-align: left;">
+        <ul style="list-style-type: none; padding: 0; color: #e6f1ff; font-size: 1.1rem; line-height: 1.8;">
+          <li>🧠 <strong>Self-taught AI Engineer</strong> with a passion for creating innovative solutions</li>
+          <li>🚀 Currently building <a href="https://snackshell.work" style="color: #ff006e; text-decoration: none; font-weight: bold;">SelamGPT</a> - Ethiopian AI assistant</li>
+          <li>📝 Technical writer focusing on AI, ML and development</li>
+          <li>🌍 Open-source contributor with a focus on African language technology</li>
+          <li>🎯 Interested in NLP, Computer Vision and AI ethics</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Skills Section -->
+<div align="center">
+  <div class="card" style="max-width: 800px;">
+    <h2 style="color: #ff006e; margin-bottom: 25px; font-size: 2rem;">Technical Skills</h2>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+      <div>
+        <h3 style="color: #00d9ff; margin-bottom: 15px;">AI & Machine Learning</h3>
+        <div style="margin-bottom: 15px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span>Python</span>
+            <span>95%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 95%;"></div>
+          </div>
+        </div>
+        <div style="margin-bottom: 15px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span>TensorFlow</span>
+            <span>90%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 90%;"></div>
+          </div>
+        </div>
+        <div>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span>PyTorch</span>
+            <span>85%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 85%;"></div>
+          </div>
+        </div>
+      </div>
+      
+      <div>
+        <h3 style="color: #ff006e; margin-bottom: 15px;">Web Development</h3>
+        <div style="margin-bottom: 15px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span>JavaScript</span>
+            <span>80%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 80%;"></div>
+          </div>
+        </div>
+        <div style="margin-bottom: 15px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span>React</span>
+            <span>75%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 75%;"></div>
+          </div>
+        </div>
+        <div>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+            <span>Node.js</span>
+            <span>85%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 85%;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Tech Stack Icons -->
+    <div style="margin-top: 30px;">
+      <p style="color: #a8b2d1; margin-bottom: 15px;">Technologies I work with:</p>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <div class="card" style="max-width: 800px;">
+    <h2 style="color: #00d9ff; margin-bottom: 25px; font-size: 2rem;">GitHub Activity</h2>
+    
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" alt="Top Languages">
+    </div>
+    
+    <div style="margin-top: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=snackshell&theme=vue-dark&hide_border=true" alt="GitHub Streak">
+    </div>
+  </div>
+</div>
+
+<!-- Featured Projects -->
+<div align="center">
+  <div class="card" style="max-width: 800px;">
+    <h2 style="color: #ff006e; margin-bottom: 25px; font-size: 2rem;">Featured Projects</h2>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+      <!-- Project 1 -->
+      <div style="background: rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #00d9ff;">
+        <h3 style="color: #00d9ff; margin-top: 0;">SelamGPT</h3>
+        <p style="color: #a8b2d1;">Ethiopian AI assistant with Amharic language support</p>
+        <div style="margin: 15px 0;">
+          <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; margin-right: 5px;">AI</span>
+          <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; margin-right: 5px;">NLP</span>
+          <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem;">Amharic</span>
+        </div>
+        <a href="https://snackshell.work" style="color: #00d9ff; text-decoration: none; font-weight: bold;">View Project →</a>
+      </div>
+      
+      <!-- Project 2 -->
+      <div style="background: rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #ff006e;">
+        <h3 style="color: #ff006e; margin-top: 0;">HN Telegram Bot</h3>
+        <p style="color: #a8b2d1;">Automated Hacker News delivery to Telegram</p>
+        <div style="margin: 15px 0;">
+          <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; margin-right: 5px;">Node.js</span>
+          <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; margin-right: 5px;">Telegram</span>
+          <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem;">API</span>
+        </div>
+        <a href="https://github.com/snackshell/hn-telegram-bot" style="color: #ff006e; text-decoration: none; font-weight: bold;">View on GitHub →</a>
+      </div>
+      
+      <!-- Project 3 -->
+      <div style="background: rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 15px; border-left: 4px solid #00d9ff;">
+        <h3 style="color: #00d9ff; margin-top: 0;">Amharic TTS</h3>
+        <p style="color: #a8b2d1;">Open-source Amharic speech synthesis system</p>
+        <div style="margin: 15px 0;">
+          <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; margin-right: 5px;">Python</span>
+          <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; margin-right: 5px;">TTS</span>
+          <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 5px 10px; border-radius: 15px; font-size: 0.8rem;">Open Source</span>
+        </div>
+        <a href="https://github.com/snackshell/amharic-tts" style="color: #00d9ff; text-decoration: none; font-weight: bold;">View on GitHub →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Contact Section -->
+<div align="center">
+  <div class="card" style="max-width: 800px;">
+    <h2 style="color: #ff006e; margin-bottom: 25px; font-size: 2rem;">Let's Connect</h2>
+    
+    <p style="color: #a8b2d1; margin-bottom: 30px; font-size: 1.1rem;">Feel free to reach out for collaborations or just a friendly hello</p>
+    
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+      <a href="https://snackshell.work" target="_blank" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #00d9ff, #0099cc); color: white; padding: 15px 25px; border-radius: 50px; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease;">
+          <span>🌐</span> Portfolio
+        </div>
+      </a>
+      
+      <a href="https://www.linkedin.com/in/snackshell" target="_blank" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #0077b5, #005a8a); color: white; padding: 15px 25px; border-radius: 50px; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease;">
+          <span>💼</span> LinkedIn
+        </div>
+      </a>
+      
+      <a href="https://t.me/snackshell" target="_blank" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #0088cc, #006699); color: white; padding: 15px 25px; border-radius: 50px; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease;">
+          <span>✈️</span> Telegram
+        </div>
+      </a>
+      
+      <a href="mailto:solomonadonay2@gmail.com" style="text-decoration: none;">
+        <div style="background: linear-gradient(135deg, #ea4335, #c23321); color: white; padding: 15px 25px; border-radius: 50px; font-weight: bold; display: flex; align-items: center; gap: 10px; transition: transform 0.3s ease;">
+          <span>✉️</span> Email
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div align="center" style="margin-top: 40px; margin-bottom: 20px;">
+  <div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 25px; border-radius: 15px; max-width: 600px;">
+    <p style="color: #a8b2d1; margin: 0; font-size: 1.1rem;">
+      "Innovation distinguishes between a leader and a follower." - Steve Jobs
+    </p>
+    <div style="margin-top: 15px; color: #00d9ff;">
+      <span>✦</span>
+      <span style="margin: 0 10px;">Thank you for visiting!</span>
+      <span>✦</span>
+    </div>
+    <div style="margin-top: 15px;">
+      <img src="https://komarev.com/ghpvc/?username=snackshell&style=for-the-badge&color=00d9ff" alt="Profile views">
+    </div>
+  </div>
+</div>
