@@ -44,23 +44,16 @@
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,flask,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,k8s,githubactions&perline=10" alt="skills" width="820"/>
 </div>
 
+
 <div align="center">
-  <h3>📊 GitHub Constellation</h3>
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
+### 📊 GitHub Constellation
+
+| Stats | Languages |
+|:-----:|:---------:|
+| ![stats](https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true ) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=radical&hide_border=true&langs_count=10 ) |
+
+![streak](https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true )
+
 </div>
 
 <h3>🔥 Featured Projects</h3>
