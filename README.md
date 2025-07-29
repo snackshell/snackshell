@@ -41,7 +41,7 @@
 
 <h3>⚙️ Tech Orbit</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,openai,fastapi,flask,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,n8n,githubactions&perline=10" alt="skills" width="600"/>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,flask,js,ts,react,nextjs,nodejs,mongodb,postgres,docker,githubactions&perline=10" alt="skills" width="600"/>
 </div>
 
 <h3>📊 GitHub Constellation</h3>
