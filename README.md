@@ -55,10 +55,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
       </td>
     </tr>
-    
-![streak](https://github-readme-streak-stats.vercel.app/api/?user=snackshell&theme=github-dark&hide_border=true)
   </table>
 </div>
+
+![streak](https://github-readme-streak-stats.vercel.app/api/?user=snackshell&theme=github-dark&hide_border=true)
 
 <h3>🔥 Featured Projects</h3>
   <table width="100%" style="max-width:900px; border:none;">
