@@ -49,7 +49,7 @@
 
 <h3>⚙️ Tech Orbit</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,js,ts,react,nextjs,nodejs,postgres,docker&perline=10" alt="skills" width="500"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,js,ts,react,nextjs,nodejs,postgres,docker,supabase,firebase,gemini&perline=10" alt="skills" width="500"/>
 </div>
 
 
