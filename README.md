@@ -24,8 +24,8 @@
 
 <!-- 2. Matrix-style typing line -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3AA655&center=true&vCenter=true&width=700&lines=AI%20Engineer%20%7C%20Ethiopia%20🇪🇹;Building%20SelamGPT%20%7C%20Amharic%20LLM;Open-source%20Advocate%20%7C%20Python%20Ninja" alt="matrix"/>
+  <a href="https://git.io/typing-svg GitHub - DenverCoder1/readme-typing-svg: ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. GitHub - DenverCoder1/readme-typing-svg: ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.  ">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3AA655&center=true&vCenter=true&width=700&lines=AI%20Engineer%20%7C%20Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9   ;Building%20SelamGPT%20%7C%20Amharic%20LLM;Open-source%20Advocate%20%7C%20Python%20Ninja" alt="matrix"/>
   </a>
 </div>
 
@@ -87,62 +87,35 @@
 </p>
 
 <!-- 8. Featured Projects – colorful cards -->
-<div align="center">
   <h3>🔥 Featured Projects</h3>
-  <table width="100%">
+  <table width="100%" style="max-width:900px;">
     <tr>
+      <!-- SelamGPT -->
       <td width="33%" style="padding:8px;">
-        <a href="https://github.com/snackshell/selamgpt" style="text-decoration:none;">
-          <div style="
-            background:linear-gradient(135deg,#0D1117 0%, #1A3B1A 100%);
-            border:1px solid #3AA655;
-            border-radius:12px;
-            padding:20px;
-            font-family:'JetBrains Mono', monospace;
-            box-shadow:0 0 12px #3AA65540;
-            transition:transform .3s ease;
-          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-            <h4 style="margin:0 0 10px; color:#3AA655;">SelamGPT</h4>
-            <p style="font-size:14px; color:#c9d1d9;">Amharic LLM assistant powered by fine-tuned LLaMA-7B.</p>
-            <span style="color:#3AA655;">▶ Live Demo</span>
-          </div>
-        </a>
+        <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
+          <h4 style="margin:0 0 10px; color:#3AA655;">SelamGPT</h4>
+          <p>Amharic LLM assistant powered by fine-tuned LLaMA-7B.</p>
+          <a href="https://snackshell.work   " style="color:#3AA655; text-decoration:none;">▶ Live Demo</a>&nbsp;&nbsp;
+          <a href="https://github.com/snackshell/selamgpt   " style="color:#3AA655; text-decoration:none;">📁 Code</a>
+        </div>
       </td>
-
-  <td width="33%" style="padding:8px;">
-        <a href="https://github.com/snackshell/hn-telegram-bot" style="text-decoration:none;">
-          <div style="
-            background:linear-gradient(135deg,#0D1117 0%, #1A3B1A 100%);
-            border:1px solid #3AA655;
-            border-radius:12px;
-            padding:20px;
-            font-family:'JetBrains Mono', monospace;
-            box-shadow:0 0 12px #3AA65540;
-            transition:transform .3s ease;
-          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-            <h4 style="margin:0 0 10px; color:#3AA655;">HN Telegram Bot</h4>
-            <p style="font-size:14px; color:#c9d1d9;">Auto-delivers Hacker News top stories to Telegram.</p>
-            <span style="color:#3AA655;">▶ Bot</span>
-          </div>
-        </a>
+      <!-- HN Bot -->
+      <td width="33%" style="padding:8px;">
+        <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
+          <h4 style="margin:0 0 10px; color:#3AA655;">HN Telegram Bot</h4>
+          <p>Auto-delivers Hacker News top stories to Telegram.</p>
+          <a href="https://t.me/hackerdabi   " style="color:#3AA655; text-decoration:none;">▶ Bot</a>&nbsp;&nbsp;
+          <a href="https://github.com/snackshell/hn-telegram-bot   " style="color:#3AA655; text-decoration:none;">📁 Code</a>
+        </div>
       </td>
-
-  <td width="33%" style="padding:8px;">
-        <a href="https://github.com/snackshell/amharic-tts" style="text-decoration:none;">
-          <div style="
-            background:linear-gradient(135deg,#0D1117 0%, #1A3B1A 100%);
-            border:1px solid #3AA655;
-            border-radius:12px;
-            padding:20px;
-            font-family:'JetBrains Mono', monospace;
-            box-shadow:0 0 12px #3AA65540;
-            transition:transform .3s ease;
-          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-            <h4 style="margin:0 0 10px; color:#3AA655;">Amharic TTS</h4>
-            <p style="font-size:14px; color:#c9d1d9;">Speech synthesis for Amharic using Tacotron2 + HiFi-GAN.</p>
-            <span style="color:#3AA655;">▶ Demo</span>
-          </div>
-        </a>
+      <!-- Amharic TTS -->
+      <td width="33%" style="padding:8px;">
+        <div style="background:#0D1117; border:1px solid #3AA655; border-radius:12px; padding:20px; font-family:'JetBrains Mono', monospace;">
+          <h4 style="margin:0 0 10px; color:#3AA655;">Amharic TTS</h4>
+          <p>Speech synthesis for Amharic using Tacotron2 + HiFi-GAN.</p>
+          <a href="https://snackshell.work/tts   " style="color:#3AA655; text-decoration:none;">▶ Demo</a>&nbsp;&nbsp;
+          <a href="https://github.com/snackshell/amharic-tts   " style="color:#3AA655; text-decoration:none;">📁 Code</a>
+        </div>
       </td>
     </tr>
   </table>
@@ -157,8 +130,8 @@
 <!-- 10. Snake contribution graph -->
 <div align="center">
   <h3>🐍 Snake Contribution</h3>
-
-![snake gif](https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif)
+  <div align="center">
+  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake"/>
 </div>
 
 <!-- 11. Footer wave – terminal green -->
