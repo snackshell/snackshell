@@ -46,21 +46,21 @@
 
 <h3>📊 GitHub Constellation</h3>
 <div>
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=vue-dark&hide_border=true&langs_count=10" alt="Top Languages"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5">
-        <img src="https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=vue-dark&hide_border=true&langs_count=10" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <h3>🔥 Featured Projects</h3>
