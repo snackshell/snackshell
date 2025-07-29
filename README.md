@@ -59,7 +59,7 @@
 |:-----:|:---------:|
 | ![stats](https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=radical&hide_border=true&langs_count=10) |
 
-![streak](https://streak-stats.demolab.com?user=snackshell&theme=radical&hide_border=true)
+![streak]([https://streak-stats.demolab.com?user=snackshell&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=snackshell&theme=radical&hide_border=true))
 
 </div>
 
