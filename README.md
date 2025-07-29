@@ -100,15 +100,13 @@
             padding:20px;
             font-family:'JetBrains Mono', monospace;
             box-shadow:0 0 12px #3AA65540;
-            transition:transform .3s ease;
-          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          ">
             <h4 style="margin:0 0 10px; color:#3AA655;">SelamGPT</h4>
             <p style="font-size:14px; color:#c9d1d9;">Amharic LLM assistant powered by fine-tuned LLaMA-7B.</p>
             <span style="color:#3AA655;">▶ Live Demo</span>
           </div>
         </a>
       </td>
-
       <td width="33%" style="padding:8px;">
         <a href="https://github.com/snackshell/hn-telegram-bot" style="text-decoration:none;">
           <div style="
@@ -118,15 +116,13 @@
             padding:20px;
             font-family:'JetBrains Mono', monospace;
             box-shadow:0 0 12px #3AA65540;
-            transition:transform .3s ease;
-          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          ">
             <h4 style="margin:0 0 10px; color:#3AA655;">HN Telegram Bot</h4>
             <p style="font-size:14px; color:#c9d1d9;">Auto-delivers Hacker News top stories to Telegram.</p>
             <span style="color:#3AA655;">▶ Bot</span>
           </div>
         </a>
       </td>
-
       <td width="33%" style="padding:8px;">
         <a href="https://github.com/snackshell/amharic-tts" style="text-decoration:none;">
           <div style="
@@ -136,8 +132,7 @@
             padding:20px;
             font-family:'JetBrains Mono', monospace;
             box-shadow:0 0 12px #3AA65540;
-            transition:transform .3s ease;
-          " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          ">
             <h4 style="margin:0 0 10px; color:#3AA655;">Amharic TTS</h4>
             <p style="font-size:14px; color:#c9d1d9;">Speech synthesis for Amharic using Tacotron2 + HiFi-GAN.</p>
             <span style="color:#3AA655;">▶ Demo</span>
