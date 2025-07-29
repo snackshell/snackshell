@@ -1,25 +1,14 @@
+<!-- 1. Terminal-green animated header -->
 <div align="center">
-  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%"  stop-color="#0D1117"/>
-        <stop offset="50%" stop-color="#1A3B1A"/>
-        <stop offset="100%" stop-color="#0D1117"/>
-      </linearGradient>
-      <filter id="neon">
-        <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#3AA655"/>
-      </filter>
-    </defs>
-    <rect width="100%" height="100%" fill="url(#grad)"/>
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-          font-family="JetBrains Mono, monospace"
-          font-size="70"
-          fill="#3AA655"
-          filter="url(#neon)"
-          letter-spacing="4">
-      snack shell
-    </text>
-  </svg>
+
+<!-- background rectangle -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&width=1200&section=header&text=" alt="bg">
+
+<!-- glowing text overlay -->
+<h1 style="font-family: 'Courier New', monospace; color: #3AA655; margin-top:-120px; font-size:70px; letter-spacing:4px; text-shadow: 0 0 6px #3AA655, 0 0 12px #3AA655;">
+  snack shell
+</h1>
+
 </div>
 
 <!-- 2. Matrix-style typing line -->
@@ -46,7 +35,7 @@
       </td>
       <td width="55%" style="padding-left:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
-          <h3>whoami</h3>
+          <h3 style="color:#3AA655;">whoami</h3>
           <ul style="list-style:none; padding:0;">
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
