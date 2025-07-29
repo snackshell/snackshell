@@ -39,8 +39,8 @@
   </table>
 </div>
 
-<div align="center">
-  <h3>⚙️ Tech Orbit</h3>
+<h3>⚙️ Tech Orbit</h3>
+<div>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,flask,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,k8s,githubactions&perline=10" alt="skills" width="820"/>
 </div>
 
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=snackshell&theme=radical&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snackshell&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -94,8 +94,8 @@
   </table>
 </div>
 
-<div align="center">
-  <h3>📈 Code Frequency</h3>
+<h3>📈 Code Frequency</h3>
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snackshell&bg_color=0D1117&color=3AA655&line=3AA655&point=ffffff&area=true&hide_border=true" alt="activity"/>
 </div>
 
