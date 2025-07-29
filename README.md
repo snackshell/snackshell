@@ -18,14 +18,18 @@
   <a href="mailto:solomonadonay2@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
 </p>
 
-<!-- 4. About me split panel -->
+<!-- 4. About-me split panel (final) -->
 <div align="center">
   <table width="100%" style="border-collapse:collapse;">
     <tr>
       <td width="45%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="260" style="border-radius:12px; box-shadow:0 0 20px #3AA65540;" alt="ethio-ai"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png"
+             width="260"
+             style="border-radius:12px; box-shadow:0 0 20px #3AA65540;"
+             alt="ethio-ai"/>
       </td>
-      <td width="55%" style="padding-left:20px;">
+
+  <td width="55%" style="padding-left:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
           ### ${\color{#3AA655}\textsf{whoami}}$
           <ul style="list-style:none; padding:0;">
