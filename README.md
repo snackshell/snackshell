@@ -1,11 +1,3 @@
-<!--  ███████  ██    ██  ██████   ██████  ██   ██  ██████   ██████  -->
-<!--  ██       ██    ██  ██   ██  ██   ██ ██   ██ ██    ██ ██    ██ -->
-<!--  ███████  ██    ██  ██████   ██████  ███████ ██    ██ ██    ██ -->
-<!--       ██  ██    ██  ██   ██  ██   ██ ██   ██ ██    ██ ██    ██ -->
-<!--  ███████   ██████   ██████   ██   ██ ██   ██  ██████   ██████  -->
-<!--  v4.0 – Terminal-Grass Nebula Theme -->
-
-<!-- 1. Terminal-green animated header -->
 <div align="center">
   <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -50,16 +42,16 @@
   <table width="100%" style="border-collapse:collapse;">
     <tr>
       <td width="45%" align="center">
-        <img src="https://camo.githubusercontent.com/21c5d10fc4a96678668ae77a3fd2d144634802679b526062418f118c19bfc3b4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786457356f597a4e33643267334d32683364327031635739744d335a3562324a366332673161324a3564586834596d5630613264345a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3152317476493973766b495777705659722f67697068792e676966" width="260" style="border-radius:12px; box-shadow:0 0 20px #3AA65540;" alt="ethio-ai"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="260" style="border-radius:12px; box-shadow:0 0 20px #3AA65540;" alt="ethio-ai"/>
       </td>
       <td width="55%" style="padding-left:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
           <h3>whoami</h3>
           <ul style="list-style:none; padding:0;">
-            <li>🔭 21 y/o self-taught AI/ML engineer</li>
-            <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM assistant</li>
-            <li>📝 Tech writer & open-source advocate</li>
-            <li>💬 Ask me about: Python • Transformers • FastAPI • Vector DBs</li>
+            <li>● 🔭 Self-taught AI/ML Dev</li>
+            <li>● 🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
+            <li>● 📝 Vibe Coder & Creative Developer, open-source advocate</li>
+            <li>● 📫 Contact me www.snackshell.work/contact</li>
           </ul>
         </div>
       </td>
@@ -70,7 +62,7 @@
 <!-- 5. Skill orbit -->
 <div align="center">
   <h3>⚙️ Tech Orbit</h3>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,numpy,pandas,fastapi,flask,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,k8s,githubactions&perline=10" alt="skills" width="820"/>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,flask,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,k8s,githubactions&perline=10" alt="skills" width="820"/>
 </div>
 
 <!-- 6. GitHub constellation -->
