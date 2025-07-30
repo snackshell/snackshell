@@ -34,7 +34,7 @@
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
             <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
-            <li>📫 Contact me <a href="mailto:hello@snackshell.work"> </a></li>
+            <li>📫 Contact me <a href="mailto:hello@snackshell.work">hello@snackshell.work</a></li>
           </ul>
         </div>
       </td>
