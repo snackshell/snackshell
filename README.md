@@ -24,11 +24,13 @@
 <div align="center">
   <table width="100%" style="border-collapse:collapse;">
     <tr>
-      <!-- Text section now comes first -->
+      <!-- Text section first -->
       <td width="55%" style="padding-right:20px;">
-        <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
-          <div style="font-size:24px; font-weight:bold; color:#3AA655;">whoami</div>
-          <ul style="list-style:none; padding:0; margin-top:10px;">
+        <div style="font-family:'JetBrains Mono', monospace; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
+          <div style="font-size:24px; font-weight:bold;">
+            <span style="color:#3AA655;">whoami</span>
+          </div>
+          <ul style="list-style:none; padding:0; margin-top:10px; color:#3AA655;">
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
             <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
@@ -36,7 +38,7 @@
           </ul>
         </div>
       </td>
-      <!-- GIF section now comes second -->
+      <!-- GIF section second -->
       <td width="45%" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"
              width="260"
