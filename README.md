@@ -16,7 +16,7 @@
   <a href="https://snackshell.work"><img src="https://img.shields.io/badge/🌐_snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"></a>
   <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3AA655" alt="linkedin"></a>
   <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=3AA655" alt="telegram"></a>
-  <a href="mailto:solomonadonay2@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
+  <a href="mailto:hello@snackshell.work"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
 </p>
 
 
@@ -34,7 +34,7 @@
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
             <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
-            <li>📫 Contact me <a href="https://snackshell.work/contact" style="color:#3AA655;">snackshell.work/contact</a></li>
+            <li>📫 Contact me <a href="mailto:hello@snackshell.work"> </a></li>
           </ul>
         </div>
       </td>
