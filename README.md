@@ -24,22 +24,24 @@
 <div align="center">
   <table width="100%" style="border-collapse:collapse;">
     <tr>
-      <td width="45%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"
-             width="260"
-             style="border-radius:12px; box-shadow:0 0 20px #3AA65540;"
-             alt="ethio-ai"/>
-      </td>
-      <td width="55%" style="padding-left:20px;">
+      <!-- Text section now comes first -->
+      <td width="55%" style="padding-right:20px;">
         <div style="font-family:'JetBrains Mono', monospace; color:#3AA655; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
-          ${\color{#3AA655}\Large\bf whoami}$
-          <ul style="list-style:none; padding:0;">
+          <div style="font-size:24px; font-weight:bold; color:#3AA655;">whoami</div>
+          <ul style="list-style:none; padding:0; margin-top:10px;">
             <li>🔭 Self-taught AI/ML Dev</li>
             <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
             <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
             <li>📫 Contact me <a href="https://snackshell.work/contact" style="color:#3AA655;">snackshell.work/contact</a></li>
           </ul>
         </div>
+      </td>
+      <!-- GIF section now comes second -->
+      <td width="45%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"
+             width="260"
+             style="border-radius:12px; box-shadow:0 0 20px #3AA65540;"
+             alt="ethio-ai"/>
       </td>
     </tr>
   </table>
