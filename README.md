@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://snackshell.work"><img src="https://img.shields.io/badge/🌐_snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"></a>
+  <a href="https://snackshell.work"><img src="https://img.shields.io/badge/snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"></a>
   <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3AA655" alt="linkedin"></a>
   <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=3AA655" alt="telegram"></a>
   <a href="mailto:hello@snackshell.work"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
