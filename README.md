@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3AA655&center=true&vCenter=true&width=700&lines=AI%20Engineer%20%7C%20Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9;Building%20SelamGPT%20%7C%20Amharic%20LLM;Open-source%20Advocate%20%7C%20Python%20Ninja" alt="matrix"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3AA655&center=true&vCenter=true&width=700&lines=AI%20and%20ML%20Engineer;Building%20SelamGPT%20%7C%20Amharic%20LLM" alt="matrix"/>
   </a>
 </div>
 
@@ -31,10 +31,10 @@
             <span style="color:#3AA655;">whoami</span>
           </div>
           <ul style="list-style:none; padding:0; margin-top:10px; color:#3AA655;">
-            <li>🔭 Self-taught AI/ML Dev</li>
-            <li>🌱 Building <strong>SelamGPT</strong> – Amharic LLM</li>
-            <li>📝 Vibe Coder & Creative Developer, open-source advocate</li>
-            <li>📫 Contact me <a href="mailto:hello@snackshell.work">hello@snackshell.work</a></li>
+            <li>Self-taught AI/ML Dev</li>
+            <li>Building <strong>SelamGPT</strong> – Amharic LLM</li>
+            <li>Vibe Coder & Creative Developer, open-source advocate</li>
+            <li>Contact me <a href="mailto:hello@snackshell.work">hello@snackshell.work</a></li>
           </ul>
         </div>
       </td>
