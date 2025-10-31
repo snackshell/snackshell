@@ -46,17 +46,17 @@
     --- CARD: TECH ORBIT ---
   -->
   <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: center;">
-    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">⚙️ Tech Orbit</h3>
+    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;"
     <p>
       <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,docker,supabase,firebase&perline=10&theme=dark" alt="skills" />
     </p>
   </div>
 
-  <!-- 
+  <!--
     --- CARD: GITHUB CONSTELLATION ---
   -->
   <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: center;">
-    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">📊 GitHub Constellation</h3>
+    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">📊 GitHub Status</h3>
     <table border="0" cellpadding="10" cellspacing="0" width="100%">
       <tr>
         <td valign="top" width="50%">
