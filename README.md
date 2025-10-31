@@ -49,27 +49,27 @@
 
   <br>
 
-  <!-- GitHub Stats: Themed to match palette -->
+  <!-- GitHub Stats: REVERTED to original, working links -->
   <h3 style="color:#f46c18;">📊 GitHub Constellation</h3>
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=121212&text_color=F5F5F5&title_color=f46c18&icon_color=f46c18" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&hide_border=true&langs_count=10&bg_color=121212&text_color=F5F5F5&title_color=f46c18&card_width=320" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=vue-dark&hide_border=true&langs_count=10" alt="Top Languages"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="96.5%" src="https://streak-stats.demolab.com/?user=snackshell&hide_border=true&background=121212&fire=f46c18&ring=f46c18&currStreakLabel=f46c18&sideNums=F5F5FS&sideLabels=F5F5F5&currStreakNum=F5F5F5" alt="GitHub Streak"/>
+        <img width="100%" src="https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
 
   <br>
 
-  <!-- Snake Contribution: Fixed URL to render image -->
+  <!-- Snake Contribution: Using the correct raw image link -->
   <h3 style="color:#f46c18;">🐍 Contribution Graph</h3>
   <p>
     <!-- 
