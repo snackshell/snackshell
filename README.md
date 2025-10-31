@@ -34,7 +34,7 @@
         <!-- Text Column -->
         <td width="70%" valign="top" style="color: #F5F5F5; font-size: 16px;">
           <h2 style="color:#f46c18; margin-top: 0; padding-bottom: 5px; border-bottom: 2px solid #f46c18;">Hello there! 👋</h2>
-          <p style="margin-bottom: 16px;">I'm a self-taught AI/ML Developer currently focused on building <strong>SelamGPT</strong>, an Amharic Large Language Model.</p>
+          <p style="margin-bottom: 16px;">I'm a self-taught AI/ML Developer currently focused on building <strong>SelamGPT</strong>, an Ethiopian LLM Platform.</p>
           <p style="margin-bottom: 16px;">I'm a vibe coder, creative developer, and a strong advocate for open-source.</p>
           <p style="margin-top: 24px;">Feel free to reach out: <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">hello@snackshell.work</a></p>
         </td>
