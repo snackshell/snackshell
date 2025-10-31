@@ -1,83 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3AA655&fontSize=70&fontAlignY=45&text=SNACK%20SHELL&stroke=3AA655&strokeWidth=2&height=180&color=0D1117&animation=scaleIn" alt="snack shell"/>
-</div>
 
+  <!-- Header: Updated with new colors -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f46c18&fontSize=70&fontAlignY=45&text=SNACK%20SHELL&stroke=f46c18&strokeWidth=2&height=180&animation=scaleIn" alt="snack shell"/>
 
-
-<div align="center">
+  <!-- Typing SVG: Updated with new accent color -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3AA655&center=true&vCenter=true&width=700&lines=AI%20and%20ML%20Engineer;Building%20SelamGPT%20%7C%20Amharic%20LLM" alt="matrix"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=f46c18&center=true&vCenter=true&width=700&lines=AI%20and%20ML%20Engineer;Building%20SelamGPT%20%7C%20Amharic%20LLM" alt="typing animation"/>
   </a>
-</div>
 
+  <br><br>
 
+  <!-- Socials: Updated with new colors -->
+  <p>
+    <a href="https://snackshell.work"><img src="https://img.shields.io/badge/snackshell.work-121212?style=for-the-badge&logo=vercel&logoColor=f46c18" alt="portfolio"></a>
+    <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=f46c18" alt="linkedin"></a>
+    <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=f46c18" alt="telegram"></a>
+    <a href="mailto:hello@snackshell.work"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=f46c18" alt="email"></a>
+  </p>
 
-<p align="center">
-  <a href="https://snackshell.work"><img src="https://img.shields.io/badge/snackshell.work-0D1117?style=for-the-badge&logo=vercel&logoColor=3AA655" alt="portfolio"></a>
-  <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3AA655" alt="linkedin"></a>
-  <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=3AA655" alt="telegram"></a>
-  <a href="mailto:hello@snackshell.work"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3AA655" alt="email"></a>
-</p>
+  <br>
 
+  <!-- About Me: Cleaner, modern card-style -->
+  <h2 style="color:#f46c18; border-bottom: 2px solid #f46c18; padding-bottom: 5px;">Hello there! 👋</h2>
+  
+  <p>
+    <!-- UPDATED IMAGE FILENAME -->
+    <img src="snackshell-logo.jpg"
+         width="250"
+         style="border-radius:12px; box-shadow:0 0 20px #f46c1840;"
+         alt="Snack Shell Profile"/>
+  </p>
+  
+  <p style="font-size:16px; color:#F5F5F5; max-width: 600px;">
+    I'm a self-taught AI/ML Developer currently focused on building <strong>SelamGPT</strong>, an Amharic Large Language Model.
+    <br />
+    I'm a vibe coder, creative developer, and a strong advocate for open-source.
+    <br /><br />
+    Feel free to reach out: <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">hello@snackshell.work</a>
+  </p>
 
+  <br>
 
-<div align="center">
-  <table width="100%" style="border-collapse:collapse;">
+  <!-- Tech Orbit: Centered and themed -->
+  <h3 style="color:#f46c18;">⚙️ Tech Orbit</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,docker,supabase,firebase&perline=10&theme=dark" alt="skills" />
+  </p>
+
+  <br>
+
+  <!-- GitHub Stats: Themed to match palette -->
+  <h3 style="color:#f46c18;">📊 GitHub Constellation</h3>
+  <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <!-- Text section first -->
-      <td width="55%" style="padding-right:20px;">
-        <div style="font-family:'JetBrains Mono', monospace; background:#0D1117; border-left:4px solid #3AA655; padding:16px;">
-          <div style="font-size:24px; font-weight:bold;">
-            <span style="color:#3AA655;">whoami</span>
-          </div>
-          <ul style="list-style:none; padding:0; margin-top:10px; color:#3AA655;">
-            <li>Self-taught AI/ML Dev</li>
-            <li>Building <strong>SelamGPT</strong> – Amharic LLM</li>
-            <li>Vibe Coder & Creative Developer, open-source advocate</li>
-            <li>Contact me <a href="mailto:hello@snackshell.work">hello@snackshell.work</a></li>
-          </ul>
-        </div>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=121212&text_color=F5F5F5&title_color=f46c18&icon_color=f46c18" alt="GitHub Stats"/>
       </td>
-      <!-- GIF section second -->
-      <td width="45%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"
-             width="260"
-             style="border-radius:12px; box-shadow:0 0 20px #3AA65540;"
-             alt="ethio-ai"/>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&hide_border=true&langs_count=10&bg_color=121212&text_color=F5F5F5&title_color=f46c18&card_width=320" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="96.5%" src="https://streak-stats.demolab.com/?user=snackshell&hide_border=true&background=121212&fire=f46c18&ring=f46c18&currStreakLabel=f46c18&sideNums=F5F5FS&sideLabels=F5F5F5&currStreakNum=F5F5F5" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
-</div>
 
+  <br>
 
+  <!-- Snake Contribution: Fixed URL to render image -->
+  <h3 style="color:#f46c18;">🐍 Contribution Graph</h3>
+  <p>
+    <!-- 
+      Note: The snake color is generated by your GitHub Action. 
+      To change it to orange, you need to edit your .github/workflows/main.yml file.
+      Find the `github-contribution-grid-snake` step and add this to the `with` block:
+      svg_out_path: dist/github-contribution-grid-snake-dark.svg?color_snake=f46c18
+    -->
+    <img src="https://raw.githubusercontent.com/snackshell/snackshell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> 
+  </p>
 
-<h3>⚙️ Tech Orbit</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,docker,supabase,firebase&perline=10" alt="skills" width="500"/>
-</div>
-
-
-<h3>📊 GitHub Constellation</h3>
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=vue-dark&hide_border=true&langs_count=10" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=snackshell&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-</div>
-
-
-<h3>🐍 Snake Contribution</h3>
-<div align="center">
-  <img src="https://github.com/snackshell/snackshell/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> 
 </div>
