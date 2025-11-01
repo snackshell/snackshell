@@ -78,7 +78,7 @@
     · · ·
   </p>
   <p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; margin-bottom: 40px; background: -webkit-linear-gradient(45deg, #f46c18, #777); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 500;">
-    ... find me orbiting the digital cosmos ...
+    **“Be a loner. That gives you time to wonder, to search for the truth. Have holy curiosity. Make your life worth living.”**
   </p>
 
 </div>
