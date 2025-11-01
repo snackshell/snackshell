@@ -42,7 +42,7 @@
   </div>
 
   <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left;">
-    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">Stack⚡</h3>
+    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">Stacks⚡</h3>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,docker,supabase,firebase&perline=10&theme=dark" alt="skills" />
     </p>
