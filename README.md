@@ -25,13 +25,13 @@
         </td>
         <td width="70%" valign="top" style="color: #F5F5F5; font-size: 16px; line-height: 1.6;">
           <h2 style="color:#f46c18; margin-top: 0; padding-bottom: 5px; border-bottom: 2px solid #333;">
-            Hello there! I'm Snack Shell. 👋
+            Hey! I’m Snack Shell.
           </h2>
           <p style="margin-bottom: 16px;">
-            I'm a self-taught <strong>AI & Machine Learning developer</strong> from Ethiopia, currently focused on building <strong>SelamGPT</strong>—an LLM platform for Ethiopian languages.
+            I'm a self-taught <strong>AI & Machine Learning developer,</strong>currently focused on building <strong>SelamGPT</strong>—an LLM platform for Ethiopian languages.
           </p>
           <p style="margin-bottom: 16px;">
-            I'm a vibe-driven coder, creative developer, and a strong advocate for <strong>open-source</strong>.
+            I'm a creative developer, vibe coder and a strong advocate for <strong>open-source</strong>.
           </p>
           <p style="margin-top: 24px;">
             Want to collaborate or just say hi? <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">Hit me up.</a>
