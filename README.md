@@ -1,15 +1,12 @@
 <div align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif; color: #F5F5F5; background-color: #1A1A1A;">
 
-  <!-- Header: Clean and simple -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f46c18&fontSize=70&fontAlignY=45&text=SNACK%20SHELL&stroke=f46c18&strokeWidth=2&height=180&animation=scaleIn" alt="snack shell"/>
 
-  <!-- Typing SVG: Themed -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=f46c18&center=true&vCenter=true&width=700&lines=AI%20and%20ML%20Engineer;Building%20SelamGPT%20%7C%20Amharic%20LLM" alt="typing animation"/>
   </a>
   <br><br>
 
-  <!-- Socials: Clean badge group -->
   <p>
     <a href="https://snackshell.work"><img src="https://img.shields.io/badge/snackshell.work-1A1A1A?style=for-the-badge&logo=vercel&logoColor=f46c18" alt="portfolio"></a>
     <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=f46c18" alt="linkedin"></a>
@@ -24,7 +21,6 @@
   <div style="background: linear-gradient(145deg, #1A1A1A, #2A2A2A); border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <table border="0" cellpadding="0" cellspacing="0" width="100%">
       <tr>
-        <!-- Image Column -->
         <td width="30%" valign="top" align="center" style="padding-right: 20px;">
           <img src="snackshell-logo.jpg"
                width="200"
