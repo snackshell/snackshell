@@ -78,7 +78,7 @@
     · · ·
   </p>
   <p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; margin-bottom: 40px; background: -webkit-linear-gradient(45deg, #f46c18, #777); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 500;">
-    **“Be a loner. That gives you time to wonder, to search for the truth. Have holy curiosity. Make your life worth living.”**
+   “𝘉𝘦 𝘢 𝘭𝘰𝘯𝘦𝘳. 𝘛𝘩𝘢𝘵 𝘨𝘪𝘷𝘦𝘴 𝘺𝘰𝘶 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘸𝘰𝘯𝘥𝘦𝘳, 𝘵𝘰 𝘴𝘦𝘢𝘳𝘤𝘩 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘵𝘳𝘶𝘵𝘩. 𝘏𝘢𝘷𝘦 𝘩𝘰𝘭𝘺 𝘤𝘶𝘳𝘪𝘰𝘴𝘪𝘵𝘺. 𝘔𝘢𝘬𝘦 𝘺𝘰𝘶𝘳 𝘭𝘪𝘧𝘦 𝘸𝘰𝘳𝘵𝘩 𝘭𝘪𝘷𝘪𝘯𝘨.”
   </p>
 
 </div>
