@@ -34,7 +34,7 @@
             I'm a creative developer, vibe coder and a strong advocate for <strong>open-source</strong>.
           </p>
           <p style="margin-top: 24px;">
-            Want to collaborate or just say hi? <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">Hit me up.</a>
+            Want to collaborate or just say hi? <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">Email Me.</a>
           </p>
         </td>
       </tr>
