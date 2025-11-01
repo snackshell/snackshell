@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif; color: #F5F5F5; background-color: #1A1A1A;">
+<div align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif; color: #F5F5F5;">
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f46c18&fontSize=70&fontAlignY=45&text=SNACK%20SHELL&stroke=f46c18&strokeWidth=2&height=180&animation=scaleIn" alt="snack shell"/>
 
@@ -8,17 +8,13 @@
   <br><br>
 
   <p>
-    <a href="https://snackshell.work"><img src="https://img.shields.io/badge/snackshell.work-1A1A1A?style=for-the-badge&logo=vercel&logoColor=f46c18" alt="portfolio"></a>
-    <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=f46c18" alt="linkedin"></a>
-    <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-1A1A1A?style=for-the-badge&logo=telegram&logoColor=f46c18" alt="telegram"></a>
-    <a href="mailto:hello@snackshell.work"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=f46c18" alt="email"></a>
+    <a href="https://snackshell.work"><img src="https://img.shields.io/badge/snackshell.work-121212?style=for-the-badge&logo=vercel&logoColor=f46c18" alt="portfolio"></a>
+    <a href="https://linkedin.com/in/snackshell"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=f46c18" alt="linkedin"></a>
+    <a href="https://t.me/snackshell"><img src="https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=f46c18" alt="telegram"></a>
+    <a href="mailto:hello@snackshell.work"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=f46c18" alt="email"></a>
   </p>
 
-  <!-- 
-    --- CARD: ABOUT ME ---
-    shadcn-inspired card layout
-  -->
-  <div style="background: linear-gradient(145deg, #1A1A1A, #2A2A2A); border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left;">
     <table border="0" cellpadding="0" cellspacing="0" width="100%">
       <tr>
         <td width="30%" valign="top" align="center" style="padding-right: 20px;">
@@ -27,32 +23,33 @@
                style="border-radius:12px; box-shadow:0 0 20px #f46c1840;"
                alt="Snack Shell Profile"/>
         </td>
-        <!-- Text Column -->
-        <td width="70%" valign="top" style="color: #F5F5F5; font-size: 16px;">
-          <h2 style="color:#f46c18; margin-top: 0; padding-bottom: 5px; border-bottom: 2px solid #f46c18;">Hello there! 👋</h2>
-          <p style="margin-bottom: 16px;">As a self-taught AI/ML developer, I'm currently deep in the code, building <strong>SelamGPT</strong>, an Amharic LLM Platform.</p>
-          <p style="margin-bottom: 16px;">I'm a creative developer who codes by vibe and champions the open-source community.</p>
-          <p style="margin-top: 24px;">Always happy to connect: <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">hello@snackshell.work</a></p>
+        <td width="70%" valign="top" style="color: #F5F5F5; font-size: 16px; line-height: 1.6;">
+          <h2 style="color:#f46c18; margin-top: 0; padding-bottom: 5px; border-bottom: 2px solid #333;">
+            Hello there! I'm Snack Shell. 👋
+          </h2>
+          <p style="margin-bottom: 16px;">
+            I'm a self-taught <strong>AI & Machine Learning developer</strong> from Ethiopia, currently focused on building <strong>SelamGPT</strong>—an LLM platform for Ethiopian languages.
+          </p>
+          <p style="margin-bottom: 16px;">
+            I'm a vibe-driven coder, creative developer, and a strong advocate for <strong>open-source</strong>.
+          </p>
+          <p style="margin-top: 24px;">
+            Want to collaborate or just say hi? <a href="mailto:hello@snackshell.work" style="color: #f46c18; text-decoration:none; font-weight:bold;">Hit me up.</a>
+          </p>
         </td>
       </tr>
     </table>
   </div>
 
-  <!-- 
-    --- CARD: TECH ORBIT ---
-  -->
-  <div style="background: linear-gradient(145deg, #1A1A1A, #2A2A2A); border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">My Tech Orbit</h3>
-    <p>
+  <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left;">
+    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">Stack⚡</h3>
+    <p align="center">
       <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,nodejs,docker,supabase,firebase&perline=10&theme=dark" alt="skills" />
     </p>
   </div>
 
-  <!--
-    --- CARD: GITHUB CONSTELLATION ---
-  -->
-  <div style="background: linear-gradient(145deg, #1A1A1A, #2A2A2A); border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">📊 GitHub Stats</h3>
+  <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left;">
+    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">GitHub Stats 📊</h3>
     <table border="0" cellpadding="10" cellspacing="0" width="100%">
       <tr>
         <td valign="top" width="50%">
@@ -70,19 +67,18 @@
     </table>
   </div>
 
-  <!-- 
-    --- CARD: CONTRIBUTION GRAPH ---
-  -->
-  <div style="background: linear-gradient(145deg, #1A1A1A, #2A2A2A); border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">🐍 Contribution Graph</h3>
-    <img src="https://raw.githubusercontent.com/snackshell/snackshell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
-  </div>
-
-  <!-- Footer -->
-  <div style="padding: 20px 0; text-align: center;">
-    <p style="font-size: 14px; color: #888;">
-      • • •
+  <div style="background-color: #121212; border-radius: 12px; border: 1px solid #333; padding: 24px; max-width: 900px; margin: 20px auto; box-sizing: border-box; text-align: left;">
+    <h3 style="color:#f46c18; margin-top:0; margin-bottom: 20px;">snaky🐍</h3>
+    <p align="center" style="margin-bottom: 0;">
+      <img src="https://raw.githubusercontent.com/snackshell/snackshell/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
     </p>
   </div>
+
+  <p style="color: #444; font-size: 20px; margin-top: 40px; margin-bottom: 10px; letter-spacing: 10px;">
+    · · ·
+  </p>
+  <p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; margin-bottom: 40px; background: -webkit-linear-gradient(45deg, #f46c18, #777); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 500;">
+    ... find me orbiting the digital cosmos ...
+  </p>
 
 </div>
