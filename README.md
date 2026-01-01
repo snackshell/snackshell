@@ -28,7 +28,7 @@
             Hey! I’m SnackShell.
           </h2>
           <p style="margin-bottom: 16px;">
-            I'm a self-taught <strong>AI & Machine Learning developer,</strong> currently focused on building <strong>SelamGPT</strong> — an LLM platform for Ethiopian languages.
+            I'm a self-taught <strong>AI & ML Engineer,</strong> currently focused on building <strong>SelamGPT</strong> — an LLM platform for Ethiopian languages.
           </p>
           <p style="margin-bottom: 16px;">
             I'm a creative developer, vibe coder, and a strong advocate for <strong>open-source</strong>.
