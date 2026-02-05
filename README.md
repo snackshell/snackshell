@@ -53,10 +53,10 @@
     <table border="0" cellpadding="10" cellspacing="0" width="100%">
       <tr>
         <td valign="top" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api?username=snackshell&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+          <img src="https://snackshell-stats.vercel.app/api?username=snackshell&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
         </td>
         <td valign="top" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" alt="Top Languages" width="100%"/>
+          <img src="https://snackshell-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" alt="Top Languages" width="100%"/>
         </td>
       </tr>
       <tr>
