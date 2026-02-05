@@ -60,9 +60,6 @@
         </td>
       </tr>
       <tr>
-        <td colspan="2" align="center" style="padding-top: 10px;">
-          <img width="100%" src="https://streak-stats.demolab.com/?user=snackshell&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
-        </td>
       </tr>
     </table>
   </div>
