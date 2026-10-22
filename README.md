@@ -50,18 +50,26 @@
 
   <div style="background-color: #0D0D0D; border-radius: 12px; border: 1px solid #0F3D2E; padding: 24px; max-width: 900px; margin: 20px auto; text-align: left; box-shadow: 0 0 25px #00FF8833;">
     <h3 style="color:#00FF88; margin-top:0; margin-bottom: 20px;">GitHub Stats 📊</h3>
+    <p align="center">
+      <img src="https://streak-stats.demolab.com/?user=snackshell&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+    </p>
     <table border="0" cellpadding="10" cellspacing="0" width="100%">
       <tr>
         <td valign="top" width="50%">
-          <img src="https://snackshell-stats.vercel.app/api?username=snackshell&show_icons=true&theme=transparent&title_color=00FF88&text_color=ffffff&icon_color=00FF88&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+          <img src="./profile/stats.svg" alt="GitHub Stats" width="100%"/>
         </td>
         <td valign="top" width="50%">
-          <img src="https://snackshell-stats.vercel.app/api/top-langs/?username=snackshell&layout=compact&theme=transparent&title_color=00FF88&text_color=ffffff&hide_border=true&langs_count=10" alt="Top Languages" width="100%"/>
+          <img src="./profile/top-langs.svg" alt="Top Languages" width="100%"/>
         </td>
       </tr>
-      <tr>
-      </tr>
     </table>
+  </div>
+
+  <div style="background-color: #0D0D0D; border-radius: 12px; border: 1px solid #0F3D2E; padding: 24px; max-width: 900px; margin: 20px auto; text-align: left; box-shadow: 0 0 25px #00FF8833;">
+    <h3 style="color:#00FF88; margin-top:0; margin-bottom: 20px;">Contributions 🧊</h3>
+    <p align="center" style="margin-bottom: 0;">
+      <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Calendar" width="100%"/>
+    </p>
   </div>
 
   <div style="background-color: #0D0D0D; border-radius: 12px; border: 1px solid #0F3D2E; padding: 24px; max-width: 900px; margin: 20px auto; text-align: left; box-shadow: 0 0 25px #00FF8833;">
